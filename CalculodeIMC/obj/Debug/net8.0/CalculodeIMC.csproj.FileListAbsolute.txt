@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.sourcelink.json
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\bin\Debug\net8.0\CalculodeIMC.exe
+C:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\bin\Debug\net8.0\CalculodeIMC.deps.json
+C:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\bin\Debug\net8.0\CalculodeIMC.runtimeconfig.json
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\bin\Debug\net8.0\CalculodeIMC.dll
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\bin\Debug\net8.0\CalculodeIMC.pdb
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.dll
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\refint\CalculodeIMC.dll
+c:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.pdb
+C:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\CalculodeIMC.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\lilccoinGIT\ProjetoEmEquipe\CalculodeIMC\obj\Debug\net8.0\ref\CalculodeIMC.dll
